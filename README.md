@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/englishj374/">Cybersecurity Professional</a></h1>
 
 
-<h2>📜 Active Certfications</h2>
+<h2>📜 Active Certifications</h2>
 
 
 - [Certified Ethical Hacker, EC-Council](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=N5jbzkDXKAOG+V+Q77yJzpIC8P+wzITt/ZpK3h6T0MQ=)
