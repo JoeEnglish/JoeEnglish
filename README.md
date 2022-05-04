@@ -1,10 +1,11 @@
-<h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/englishj374/">Cybersecurity Professional</a></h1>
+<h2>Hi, I'm Joe!</h2>
 
 
-<h2>📜 Active Certifications</h2>
+<h4>📜 Active Certifications</h4>
 
 
 - [Certified Ethical Hacker, EC-Council](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=N5jbzkDXKAOG+V+Q77yJzpIC8P+wzITt/ZpK3h6T0MQ=)
+- [Certified Wireless Technology Specialist, CWNP](https://www.cwnp.com/cwnpVerification.php?cwnp_id=737533&Submit=Verify)
 - [CySA+ ce, CompTIA](https://www.credly.com/badges/73040fa7-14c0-41d4-9d8e-8ef80212c96a)
 - [Microsoft 365 Certified: Fundamentals, Microsoft](https://www.credly.com/badges/b89cca13-fdc0-4382-8f1c-c787f7a2647b)
 - [Microsoft Certified: Azure AI Fundamentals, Microsoft](https://www.credly.com/badges/42f9c8a0-8f11-42ad-a546-3749c1b53884)
@@ -14,7 +15,7 @@
 - [Security+ ce, CompTIA](https://www.credly.com/badges/2ed6e8c0-95da-4cbe-a229-fd61c5dfcad8)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h4> 🤳 Connect with me:</h4>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
