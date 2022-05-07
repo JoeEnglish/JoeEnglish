@@ -1,8 +1,7 @@
 <h2>Hi, I'm Joe!</h2>
 
 
-<h4>📜 Active Certifications</h4>
-
+<h4> 📜 Active Certifications</h4>
 
 - [Certified Ethical Hacker, EC-Council](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=N5jbzkDXKAOG+V+Q77yJzpIC8P+wzITt/ZpK3h6T0MQ=)
 - [Certified Wireless Technology Specialist, CWNP](https://www.cwnp.com/cwnpVerification.php?cwnp_id=737533&Submit=Verify)
@@ -15,10 +14,13 @@
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals, Microsoft](https://www.credly.com/badges/efe07e7c-0066-4c8e-9dea-1a2d52bfa9eb)
 - [Security+ ce, CompTIA](https://www.credly.com/badges/2ed6e8c0-95da-4cbe-a229-fd61c5dfcad8)
 
+<h4> 📖 Publications</h4>
 
-<h4> 🤳 Connect with me:</h4>
+- [Stories from the SOC – Multi-layered defense detects Windows Trojan](https://cybersecurity.att.com/blogs/security-essentials/stories-from-the-soc-multi-layered-defense-detects-windows-trojan)
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h4> 🤳 Connect</h4>
+
+[<img align="left" alt="JoeEnglish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/englishj374/
 
