@@ -1,5 +1,6 @@
 <h2>Hi, I'm Joe!</h2>
 
+<h4> 🛠 Projects</h4>
 
 <h4> 📜 Active Certifications</h4>
 
