@@ -5,7 +5,7 @@
 <h4> 📜 Active Certifications</h4>
 
 - [Certified Ethical Hacker, EC-Council](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=N5jbzkDXKAOG+V+Q77yJzpIC8P+wzITt/ZpK3h6T0MQ=)
-- [Certified Information Systems Security Professional, (ISC)²](https://aspen.eccouncil.org/VerifyBadgetype=certification&a=N5jbzkDXKAOG+V+Q77yJzpIC8P+wzITt/ZpK3h6T0MQ=)
+- [Certified Information Systems Security Professional, (ISC)²](https://www.credly.com/badges/bba2ec5e-a932-46e7-8712-354bde6072de)
 - [Certified Wireless Technology Specialist, CWNP](https://www.cwnp.com/cwnpVerification.php?cwnp_id=737533&Submit=Verify)
 - [Cisco Certified Network Associate, Cisco](https://www.credly.com/badges/363a67c1-deec-429f-9e7d-2129b89392a9)
 - [CySA+ ce, CompTIA](https://www.credly.com/badges/73040fa7-14c0-41d4-9d8e-8ef80212c96a)
