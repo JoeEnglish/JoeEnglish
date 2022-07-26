@@ -18,7 +18,7 @@
 
 <h4> 📖 Publications</h4>
 
-- [Stories from the SOC – Multi-layered defense detects Windows Trojan](https://cybersecurity.att.com/blogs/security-essentials/stories-from-the-soc-multi-layered-defense-detects-windows-trojan)
+- [Stories from the SOC – Multi-layered defense detects Windows Trojan, Nov 2020](https://cybersecurity.att.com/blogs/security-essentials/stories-from-the-soc-multi-layered-defense-detects-windows-trojan)
 
 <h4> 🤳 Connect</h4>
 
